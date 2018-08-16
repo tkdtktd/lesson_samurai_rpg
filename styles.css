@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  padding:0;
+  background:black;
+  font-family:'Impact',sans-serif; 
+
+}
+.container{
+  width:800px;
+  text-align: center;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+}
+
+h1{
+  margin-left:50px;
+  color:red;
+}
+
+.btn{
+margin-left:50px;
+}
+
+.red{
+  background-color: red;
+  color:white;
+  padding:100px;
+}
+
+.white{
+  background-color: white;
+  color:black;
+  padding: 100px;
+}
+.blue{
+  background-color: blue;
+  color:white;
+  padding:100px;
+}
+.margin{
+  margin-bottom:100px;
+}
+#title{
+  color:green;
+}
+p{
+  color:white;
+  font-size:20px;
+}
+#pic_enemy{
+  width:250px;
+  use-select:none;
+}
